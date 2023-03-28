@@ -1,3 +1,3 @@
 # Coursea_IBM_Git
 Simple repo to fulfil Coursera prerequisites 
-Adding something 
+Adding additional comments as per Task 3
